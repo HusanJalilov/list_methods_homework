@@ -7,4 +7,4 @@ def main(fruits,x):
     Returns:
         list: return answer
     """
-    return fruits.pop(x)
+    return fruits+x
